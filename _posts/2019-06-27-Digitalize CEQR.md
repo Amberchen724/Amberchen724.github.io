@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:       Digitalize CEQR(City Environmental Quality Review)- Socioeconomic Condition Chapter 
+title:      Digitalize CEQR(City Environmental Quality Review)- Socioeconomic Condition Chapter 
 date:       2019-06-07
 author:     Yushi(Amber)Chen
 header-img: img/post-bg-debug.png
