@@ -9,6 +9,7 @@ tags:
     - Data Anlysis
     - Urban Planning
     - Machine Learning
+    
 ---
 
 # Digitalize CEQR(City Environmental Quality Review)- Socioeconomic Condition Chapter
