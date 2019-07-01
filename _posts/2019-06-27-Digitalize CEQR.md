@@ -895,7 +895,7 @@ plt.legend(loc = 'best')
 
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_27_1.png)
+![png](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_27_1.png)
 
 
 <a id='6'></a>
@@ -966,7 +966,7 @@ plt.plot(price_log)
 
 
 
-![Alt text](../_images/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_33_1.png)
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_33_1.png)
 
 
 
@@ -1138,7 +1138,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_39_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_39_0.png)
 
 
 ### Validating Forecasts
@@ -1166,7 +1167,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_42_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_42_0.png)
 
 
 
@@ -1194,7 +1196,7 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_44_0.png)
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_44_0.png)
 
 
 # Based on the characteristics of the study area, 80% of the residence are renter, thus performing prediction on rental price is more meaningful 
@@ -2526,7 +2528,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_87_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_87_0.png)
 
 
 ### Based on the graph showed above, the rental price of studio changed the most, even the rental price for studio has a lot of missing data. The price of three bedroom is decreasing in 2019, which the two bedroom rental price is increasing in 2019. 
@@ -2973,7 +2976,8 @@ plt.legend(loc = 'best')
 
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_104_1.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_104_1.png)
 
 
 #### Check stationality of the data 
@@ -3185,7 +3189,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_112_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_112_0.png)
 
 
 #### Validating 
@@ -3213,7 +3218,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_115_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_115_0.png)
 
 
 
@@ -3240,7 +3246,8 @@ plt.show()
 ```
 
 
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_117_0.png)
+
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_117_0.png)
 
 
 `<a id='11'></a>
