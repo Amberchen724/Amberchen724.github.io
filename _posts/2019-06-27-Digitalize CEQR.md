@@ -965,7 +965,7 @@ plt.plot(price_log)
 
 
 
-![Alt text](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_33_1.png)
+![png](../_img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_33_1.png)
 
 
 
