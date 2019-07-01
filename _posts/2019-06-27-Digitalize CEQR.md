@@ -894,7 +894,7 @@ plt.legend(loc = 'best')
     <matplotlib.legend.Legend at 0x1c253f6550>
 
 
-![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_104_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_104_1.png)
 
 
 <a id='6'></a>
@@ -3189,7 +3189,7 @@ plt.show()
 
 
 
-![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_112_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_112_0.png)
 
 
 #### Validating 
@@ -3218,7 +3218,7 @@ plt.show()
 
 
 
-![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_115_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_115_0.png)
 
 
 
