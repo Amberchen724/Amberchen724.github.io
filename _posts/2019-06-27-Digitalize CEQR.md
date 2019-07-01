@@ -894,8 +894,7 @@ plt.legend(loc = 'best')
     <matplotlib.legend.Legend at 0x1c253f6550>
 
 
-
-![Alt text](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_27_1.png)
+![png](../img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_27_1.png)
 
 
 <a id='6'></a>
