@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Digitalize CEQR(City Environmental Quality Review)- Socioeconomic Condition Chapter 
+date:       2019-06-07
+author:     Yushi(Amber)Chen
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - Data Anlysis
+    - Urban Planning
+    - Machine Learning
+    
+---
 
 # Chapter 5 Socioeconomic Condition 
 
@@ -844,7 +857,7 @@ plt.show()
 ```
 
 
-![png](Socioeconomichousingsaleandrentalprice_files/Socioeconomichousingsaleandrentalprice_25_0.png)
+![png](../img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice250.png)
 
 
 ### Explore the seasonality and trend
