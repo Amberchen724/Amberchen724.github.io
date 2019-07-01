@@ -857,7 +857,7 @@ plt.show()
 ```
 
 
-![Alt text](https://github.com/Amberchen724/img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_25_0.png)
+![png](https://github.com/Amberchen724/img/Socio-economic_housing_sale_and_rental_price_files/Socio-economic_housing_sale_and_rental_price_25_0.png)
 
 
 ### Explore the seasonality and trend
