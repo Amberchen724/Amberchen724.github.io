@@ -857,7 +857,7 @@ plt.show()
 ```
 
 
-![png](../img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice250.png)
+![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice250.png)
 
 
 ### Explore the seasonality and trend
