@@ -1,5 +1,16 @@
-
-
+---
+layout:     post
+title:      Understanding factors that affect housing price and its change with Census data over time
+date:       2019-05-20
+author:     Yushi(Amber)Chen
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - Data Anlysis
+    - Urban Planning
+    - Machine Learning
+    
+---
 ```python
 import os
 import glob
