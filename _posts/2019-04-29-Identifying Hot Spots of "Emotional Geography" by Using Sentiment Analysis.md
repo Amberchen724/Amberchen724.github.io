@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Identifying Hot Spots of "Emotional Geography" in New York City 
+date:       2019-04-19
+author:     Yushi(Amber)Chen
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - Geospatial Analysis
+    - Sentiment Analysis  
+    - Data Analysis
+    
+---
 
 ### Abstract: 
 
