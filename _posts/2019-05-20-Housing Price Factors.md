@@ -754,7 +754,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_23_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_23_0.png)
 
 
 #### After check the variable dictionary, the top three correlation variables are : per_col_16 --- "Percent college educated" /  mrent16 ---"Median house value" / vhi2016 --- "Share of very high income households". 
@@ -867,11 +867,11 @@ elbow(X, range(2,11))
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_32_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_32_0.png)
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_32_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_32_1.png)
 
 
 
@@ -1085,7 +1085,7 @@ plt.title("median property price clustering map for 2016 (k-means)")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_38_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_38_1.png)
 
 
 #### Start from here, we are trying to find out how those important features changes over time and how they contributed to different clusters in different years.  
@@ -1358,7 +1358,7 @@ plt.title("median property price clustering map for 2016(GMM)")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_52_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_52_1.png)
 
 
 
@@ -1460,7 +1460,7 @@ ax2.axis('off')
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_58_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_58_1.png)
 
 
 
@@ -1699,7 +1699,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_66_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_66_0.png)
 
 
 
@@ -1716,7 +1716,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_67_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_67_0.png)
 
 
 ## Same as 2016,  in 2000, the top three correlation variables are : per_col_16 --- "Percent college educated" /  mrent16 ---"Median house value" / vhi2016 --- "Share of very high income households".  (the college one is intresting, but the income one is kinda obvious i feel) 
@@ -1946,11 +1946,11 @@ elbow(X_00, range(2,11))
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_73_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_73_0.png)
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_73_1.png)
+![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/featureimportanceandclustering_files/featureimportanceandclustering_73_1.png)
 
 
 
@@ -2173,7 +2173,7 @@ plt.title("median property price clustering map for 2010(k-means)")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_81_1.png)
+![png](https://github.com/Amberchen724/Amberchen724.github.io/blob/master/img/featureimportanceandclustering_files/featureimportanceandclustering_81_1.png)
 
 
 <a id='7'></a>
@@ -2348,7 +2348,7 @@ plt.title("median property price clustering map for 2010(gmm)")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_86_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_86_1.png)
 
 
 
@@ -2527,7 +2527,7 @@ ax2.axis('off')
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_98_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_98_1.png)
 
 
 
@@ -2757,7 +2757,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_105_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_105_0.png)
 
 
 
@@ -2774,7 +2774,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_106_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_106_0.png
 
 
 ### Evaluate the changes of cluster between 2000
@@ -2829,11 +2829,11 @@ elbow(X_90, range(2,11))
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_112_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_112_0.png)
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_112_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_112_1.png)
 
 
 
@@ -3042,7 +3042,7 @@ plt.title("median property price clustering map for 1990")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_117_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_117_1.png)
 
 
 <a id='9'></a>
@@ -3217,7 +3217,7 @@ plt.title("median property price clustering map for 1990(gmm)")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_122_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_122_1.png)
 
 
 
@@ -3777,7 +3777,7 @@ plt.title("college population changes from 2000 - 2016 changes")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_154_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_154_1.png)
 
 
 
@@ -3799,7 +3799,7 @@ plt.title("non-white population changes from 2000 -2016 changes")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_155_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_155_1.png)
 
 
 
@@ -3821,7 +3821,7 @@ plt.title("population changes from 2000 -2016 changes")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_156_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_156_1.png)
 
 
 
@@ -4011,7 +4011,7 @@ plt.title("median property price clustering map for 2000 -2016 changes")
 
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_162_1.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_162_1.png)
 
 
 
