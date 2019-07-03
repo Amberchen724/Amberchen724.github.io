@@ -7,8 +7,8 @@ header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Data Anlysis
-    - Urban Planning
-    - Machine Learning
+    - Data Visulization 
+    - Clustering Alorithms
     
 ---
 ```python
