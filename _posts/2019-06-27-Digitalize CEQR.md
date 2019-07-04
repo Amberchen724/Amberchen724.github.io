@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Digitalize CEQR(City Environmental Quality Review)- Socioeconomic Condition Chapter 
+subtitle:   This notebook analysis the housing sale price and rental price of the study area in Redhook. Also used time series analysis model to predict the future price accordinly.  This notebook will also bring insights about the rezoning project under the RWCDS condition
 date:       2019-06-07
 author:     Yushi(Amber)Chen
 header-img: img/post-bg-debug.png
