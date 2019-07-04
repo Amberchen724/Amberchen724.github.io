@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Understanding factors that affect housing price and its change with Census data over time
-subtitle:   This notebook analyzed census data and try to find the factors that influence housing price and its change over time in New York City from 1990, 2000 and 2016. And clustering Algorithms were implemented for understanding different socio-economic characteristics among different clusters in New York City.  
+subtitle:   This notebook analyzed census data and try to find the factors that influence housing price and its changes over time in New York City from 1990, 2000 and 2016. And clustering Algorithms were implemented for understanding different socio-economic characteristics among different clusters in New York City.  
 date:       2019-05-20
 author:     Yushi(Amber)Chen
 header-img: img/post-bg-debug.png
