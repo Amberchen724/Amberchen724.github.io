@@ -8,7 +8,7 @@ catalog: true
 tags:
     - Data Anlysis
     - Data Visulization 
-    - Clustering Alorithms
+    - Clustering Algorithms
     
 ---
 ```python
