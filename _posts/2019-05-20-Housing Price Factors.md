@@ -4023,19 +4023,19 @@ plt.title("median property price clustering map for 2000 -2016 changes")
 ## 8. Summary and Analysis
 
 #### Feature Importance of three years are similar: 
-#### After check the variable dictionary, the top three correlation variables are : per_col_16 --- "Percent college educated" /  mrent16 ---"Median house value" / vhi2016 --- "Share of very high income households". 
+After check the variable dictionary, the top three correlation variables are : per_col_16 --- "Percent college educated" /  mrent16 ---"Median house value" / vhi2016 --- "Share of very high income households". 
 
 #### For clusters in 2016: 
-#### based on the map and mean value of those higher correlated variables, we can find out that. Cluster 1: Include Hudson Yard - Chelsea-Flatiron-Union Square/ Parts of Upper West and East Side/ parts of downtown brooklyn/ little part of Willimasburg. These areas have highest percentage of high income population, and highest percentage of college education and median household income. On the contrary, cluster 0 has the lowest mean value for all the four variables. From the clustering map above, the spatial distribution of cluster 0 are mainly in inner Queens and Brooklyn. 
+based on the map and mean value of those higher correlated variables, we can find out that. Cluster 1: Include Hudson Yard - Chelsea-Flatiron-Union Square/ Parts of Upper West and East Side/ parts of downtown brooklyn/ little part of Willimasburg. These areas have highest percentage of high income population, and highest percentage of college education and median household income. On the contrary, cluster 0 has the lowest mean value for all the four variables. From the clustering map above, the spatial distribution of cluster 0 are mainly in inner Queens and Brooklyn. 
 
 
 #### For clusters in 2000: 
-#### The areas in Cluster 0 represent the highest median property value, percentage of college education, and highest median income. The areas include: lower manhattan, east village, upper east side. and Douglas Manor/ Jamaica Estates-Holliswood( theres areas are not anymore at "highest" cluster in 2016). And Cluster 3 has lowest variable values. Area includes: areas above Harlem/ inner areas of Queens and brooklyn. (Williansburge in 2000 is still in "lowest" cluster) 
+The areas in Cluster 0 represent the highest median property value, percentage of college education, and highest median income. The areas include: lower manhattan, east village, upper east side. and Douglas Manor/ Jamaica Estates-Holliswood( theres areas are not anymore at "highest" cluster in 2016). And Cluster 3 has lowest variable values. Area includes: areas above Harlem/ inner areas of Queens and brooklyn. (Williansburge in 2000 is still in "lowest" cluster) 
 
 #### For cluster in 1990: 
-#### In 1990, The cluster has highest value (cluster0) and cluster has lowest value (cluster 2) are both located in Manhattan. The "highest" areas are still in upper East/West side and lower manhattan area; however the other area is lowest part. (One of the reason might be 1990 has more missing data than other two years) 
+In 1990, The cluster has highest value (cluster0) and cluster has lowest value (cluster 2) are both located in Manhattan. The "highest" areas are still in upper East/West side and lower manhattan area; however the other area is lowest part. (One of the reason might be 1990 has more missing data than other two years) 
 
-#### Summary from the previous task, variables that have higher correlation with median property value ("mhval16/00/19") are: (list based on ranking of correlation). 2016:  "Percent college educated" / "Share of very high income households"/"Median rent value". 2000: "Percent college educated"//"Median rent value"/ Median Household income" / "Share of very high income households". 1990: Median Household income"/ "Percent college educated"/"Owner-occupied housing units"/"Share of very high income households"/
+Summary from the previous task, variables that have higher correlation with median property value ("mhval16/00/19") are: (list based on ranking of correlation). 2016:  "Percent college educated" / "Share of very high income households"/"Median rent value". 2000: "Percent college educated"//"Median rent value"/ Median Household income" / "Share of very high income households". 1990: Median Household income"/ "Percent college educated"/"Owner-occupied housing units"/"Share of very high income households"/
 
 
 
