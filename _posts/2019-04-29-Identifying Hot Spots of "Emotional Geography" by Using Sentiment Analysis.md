@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Identifying Hot Spots of "Emotional Geography" in New York City 
-Subtitle:   This project presents two ways of identifying the ‘emotional geography’ of crowd behavior in public space.First is sentimental analysis on Twitter data, another is analyzing the data collected by using Electrodermal activity(EDA) sensor. 
+subtitle:   This project presents two ways of identifying the ‘emotional geography’ of crowd behavior in public space.First is sentimental analysis on Twitter data, another is analyzing the data collected by using Electrodermal activity(EDA) sensor. 
 date:       2019-04-19
 author:     Yushi(Amber)Chen
 header-img: img/post-bg-debug.png
