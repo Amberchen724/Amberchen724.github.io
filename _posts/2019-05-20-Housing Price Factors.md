@@ -736,7 +736,7 @@ plt.show()
 ```
 
 
-![png](featureimportanceandclustering_files/featureimportanceandclustering_22_0.png)
+![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/featureimportanceandclustering_files/featureimportanceandclustering_22_0.png)
 
 
 
