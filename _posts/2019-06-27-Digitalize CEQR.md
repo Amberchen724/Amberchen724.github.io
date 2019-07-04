@@ -65,8 +65,8 @@ pd.options.mode.chained_assignment = None
 <a id='1'></a>
 ## 1. Background of socioeconomic condition chapter
 
-### The socioeconomic character of an area include its population, housing and economic activities. In the socio-economic chapter, original CEQR tried to measure the direct and indrect (residential and busniess) displacement of the rezoning project. However, the assesment methods result some flawed findings and problems, there are also certain perspectives did not consider into the assesment process. 
-### For example: The indirect replacement is poorly assesed in the original CEQR report. The analysis dismisses the potential for inequitable impacts by race and ethnicity. Also, did not consider the indirect displacement that caused by potential property price and rental price increase. In this notebook, I am going to discover the property sales and rental price charateristics in the study area, as well as forcasting the future housing/rental price in the area. 
+The socioeconomic character of an area include its population, housing and economic activities. In the socio-economic chapter, original CEQR tried to measure the direct and indrect (residential and busniess) displacement of the rezoning project. However, the assesment methods result some flawed findings and problems, there are also certain perspectives did not consider into the assesment process. 
+For example: The indirect replacement is poorly assesed in the original CEQR report. The analysis dismisses the potential for inequitable impacts by race and ethnicity. Also, did not consider the indirect displacement that caused by potential property price and rental price increase. In this notebook, I am going to discover the property sales and rental price charateristics in the study area, as well as forcasting the future housing/rental price in the area. 
 
 
 <a id='2'></a>
@@ -75,7 +75,7 @@ pd.options.mode.chained_assignment = None
 <a id='3'></a>
 ## 2.1. Data Source and Data Cleaning
 
-#### Housing Price data are downloaded from NYC Department of Finance: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
+Housing Price data are downloaded from NYC Department of Finance: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
 
 
 ```python
@@ -861,9 +861,9 @@ plt.show()
 
 
 ### Explore the seasonality and trend
-#### Two methods:
-#### Differencing (taking the differece with a particular time lag) 
-#### Decomposition (modeling both trend and seasonality and removing them from the model)
+Two methods:
+Differencing (taking the differece with a particular time lag) 
+Decomposition (modeling both trend and seasonality and removing them from the model)
 
 
 ```python
@@ -902,7 +902,7 @@ plt.legend(loc = 'best')
 
 ### Check stationary
 
-#### A stationary time series is one where statistical properties — like the mean and variance — are constant over time.Most statistical forecasting methods are designed to work on a stationary time series. The first step in the forecasting process is typically to do some transformation to convert a non-stationary series to stationary. Now we test if our data is staionary: 
+A stationary time series is one where statistical properties — like the mean and variance — are constant over time.Most statistical forecasting methods are designed to work on a stationary time series. The first step in the forecasting process is typically to do some transformation to convert a non-stationary series to stationary. Now we test if our data is staionary: 
 
 
 ```python
@@ -948,8 +948,8 @@ for key, value in result[3].items():
       warn("p-value is smaller than the indicated p-value", InterpolationWarning)
 
 
-#### Based on the ADF test we did before, the p-valur is lower than 5%, then we can reject the nun hypothesis and accept that stationarity exists in the data.
-### Make data from non-staionary to stationary 
+Based on the ADF test we did before, the p-valur is lower than 5%, then we can reject the nun hypothesis and accept that stationarity exists in the data.
+Make data from non-staionary to stationary 
 
 
 ```python
@@ -1206,7 +1206,7 @@ plt.show()
 <a id='8'></a>
 ## 3.1 Data Source and Data Cleaning
 
-#### Data downloaded from streeteas:https://streeteasy.com/blog/data-dashboard/
+Data downloaded from streeteas:https://streeteasy.com/blog/data-dashboard/
 
 ### Studio
 
@@ -1388,7 +1388,7 @@ studio.head()
 
 
 
-#### Data contains rental price in many area, drop other area and keep the study area. There are many nan in RedHook data, so we also drop it. 
+Data contains rental price in many area, drop other area and keep the study area. There are many nan in RedHook data, so we also drop it. 
 
 
 ```python
@@ -2531,9 +2531,9 @@ plt.show()
 ![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_87_0.png)
 
 
-### Based on the graph showed above, the rental price of studio changed the most, even the rental price for studio has a lot of missing data. The price of three bedroom is decreasing in 2019, which the two bedroom rental price is increasing in 2019. 
+Based on the graph showed above, the rental price of studio changed the most, even the rental price for studio has a lot of missing data. The price of three bedroom is decreasing in 2019, which the two bedroom rental price is increasing in 2019. 
 
-## Median asking price for all types of rental unit together
+Median asking price for all types of rental unit together
 
 
 ```python
@@ -2932,7 +2932,7 @@ plt.show()
 ![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_99_0.png)
 
 
-### The total rental price was in a peak in 2016, decreased after 2016 until reached the lowest point at 2017. 
+The total rental price was in a peak in 2016, decreased after 2016 until reached the lowest point at 2017. 
 
 
 ```python
@@ -2942,7 +2942,7 @@ plt.show()
 <a id='10'></a>
 ## 3.3 Time series analysis
 
-#### Check the trend and seaonality of the data 
+### Check the trend and seaonality of the data 
 
 
 ```python
@@ -2979,7 +2979,7 @@ plt.legend(loc = 'best')
 ![png](https://raw.githubusercontent.com/Amberchen724/Amberchen724.github.io/master/img/Socioeconomichousingsaleandrentalpricefiles/Socioeconomichousingsaleandrentalprice_104_1.png)
 
 
-#### Check stationality of the data 
+### Check stationality of the data 
 
 
 ```python
@@ -3252,11 +3252,11 @@ plt.show()
 `<a id='11'></a>
 ## 4. Findings
 
-## From previous analysis on the price of property sales and rental unit: 
-### 1. The proerty sale price will be increase based on the time series forcasting, and the trend of incresing will continue for next five years. There are definalty seasonality exsit in the housing market of the study area, which the mean price of the hoiusing market in Summer is higher than Winter. However, based on the socio-economic characteristic analysis, the unemployment rate of the study area is higher than brooklyn, which the increasing sale price of housing may increase the burden of the housing buyer and lead to indirect displacement. 
-### 2. Based on the socio-economic characteristic analysis, 80% of the residence in the study area are renter instead of home owner, which analyze rental price of the preperty in the study area is more meaningful
-### 3. started from 2018, the median asking rental price of threebedroom housing is generaly decreasing, and price for onebedroom and two bedroom increases with fluctuation. In january and feburay of 2019, the twobedroom rental price is higher than the price of threebedroom. 
-### 4. According to the time series analysis of rental price,  the trend of rental price is also increasing but with fluctuation. 
+From previous analysis on the price of property sales and rental unit: 
+1. The proerty sale price will be increase based on the time series forcasting, and the trend of incresing will continue for next five years. There are definalty seasonality exsit in the housing market of the study area, which the mean price of the hoiusing market in Summer is higher than Winter. However, based on the socio-economic characteristic analysis, the unemployment rate of the study area is higher than brooklyn, which the increasing sale price of housing may increase the burden of the housing buyer and lead to indirect displacement. 
+2. Based on the socio-economic characteristic analysis, 80% of the residence in the study area are renter instead of home owner, which analyze rental price of the preperty in the study area is more meaningful
+3. started from 2018, the median asking rental price of threebedroom housing is generaly decreasing, and price for onebedroom and two bedroom increases with fluctuation. In january and feburay of 2019, the twobedroom rental price is higher than the price of threebedroom. 
+4. According to the time series analysis of rental price,  the trend of rental price is also increasing but with fluctuation. 
 
 
 ```python
@@ -3266,9 +3266,9 @@ plt.show()
 `<a id='12'></a>
 ## 5. RWCDS condition
 
-### two stories (approximately 1.8 FAR 144,000 zsf or 148,320 gsf) of industrial uses, with a remaining permissible 2.8 FAR (224,000 zsf or 246,400 gsf) being comprised of approximately 246 dwelling units, of which between 20 and 30 percent would be permanently affordable in accordance with the MIH program;  Metrics for jobs per sf: warehouses: 1 per 3,000 sf; manufacturing / makers’ space: 1 per 600 sf; offices: 1 per 200 sf Lots 1, 23 and 24 will be included in the RWCDS as the sole development site;  Construction activities (including demolition) would take up to 24 months. The preparation of an Environmental Impact Statement (EIS) will not be required. 
+two stories (approximately 1.8 FAR 144,000 zsf or 148,320 gsf) of industrial uses, with a remaining permissible 2.8 FAR (224,000 zsf or 246,400 gsf) being comprised of approximately 246 dwelling units, of which between 20 and 30 percent would be permanently affordable in accordance with the MIH program;  Metrics for jobs per sf: warehouses: 1 per 3,000 sf; manufacturing / makers’ space: 1 per 600 sf; offices: 1 per 200 sf Lots 1, 23 and 24 will be included in the RWCDS as the sole development site;  Construction activities (including demolition) would take up to 24 months. The preparation of an Environmental Impact Statement (EIS) will not be required. 
 
-### It also should include that, in the 70%-80% of the rental unit, the precentage of twobedroom and single bedroom property should be increased.
+It also should include that, in the 70%-80% of the rental unit, the precentage of twobedroom and single bedroom property should be increased.
 
 
 ```python
